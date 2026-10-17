@@ -1,3 +1,5 @@
    theme: minima
    title: Niketa's Learning Blog
    description: Documenting what I learn, one step at a time.
+   exclude:
+   - README.md
